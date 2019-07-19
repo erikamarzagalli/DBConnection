@@ -1,0 +1,12 @@
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\bin\Debug\netcoreapp2.1\DbConnection.deps.json
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\bin\Debug\netcoreapp2.1\DbConnection.runtimeconfig.json
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\bin\Debug\netcoreapp2.1\DbConnection.runtimeconfig.dev.json
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\bin\Debug\netcoreapp2.1\DbConnection.dll
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\obj\Debug\netcoreapp2.1\DbConnection.csprojAssemblyReference.cache
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\obj\Debug\netcoreapp2.1\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\obj\Debug\netcoreapp2.1\DbConnection.AssemblyInfoInputs.cache
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\obj\Debug\netcoreapp2.1\DbConnection.AssemblyInfo.cs
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\bin\Debug\netcoreapp2.1\DbConnection.pdb
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\obj\Debug\netcoreapp2.1\DbConnection.dll
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\obj\Debug\netcoreapp2.1\DbConnection.pdb
+C:\Users\erika.marzagalli\source\repos\DbConnection\DbConnection\bin\Debug\netcoreapp2.1\DbConnection.dll.config
